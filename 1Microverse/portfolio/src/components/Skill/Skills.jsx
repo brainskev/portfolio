@@ -1,7 +1,7 @@
 /* eslint-disable arrow-body-style */
 /* eslint-disable react/jsx-wrap-multilines */
 import React from 'react';
-import { SiPytorchlightning } from 'react-icons/si';
+import { SiPytorch } from 'react-icons/si';
 import { CgWebsite, CgDatabase } from 'react-icons/cg';
 import styled from 'styled-components';
 import { Slide } from 'react-awesome-reveal';
@@ -57,7 +57,7 @@ const Skills = () => {
         </Slide>
         <Slide direction="right">
           <Card
-            Icon={SiPytorchlightning}
+            Icon={SiPytorch}
             title="Other Skills"
             text={
               <ul>

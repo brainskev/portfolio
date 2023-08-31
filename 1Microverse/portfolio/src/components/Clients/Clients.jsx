@@ -61,6 +61,7 @@ const clients = [
       prioritizing the success of the project and the team, making him an ideal candidate for a team-oriented work environment.,
   },
 ];
+
 const settings = {
   dots: true,
   infinite: true,
@@ -126,7 +127,8 @@ const Clients = () => {
 
 export default Clients;
 
-const Container = styled.div`
+
+const Container = styled.div`,
   width: 80%;
   max-width: 1280px;
   margin: 0 auto;
