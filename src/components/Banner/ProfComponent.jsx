@@ -48,7 +48,7 @@ const ProfComponent = () => {
             <div className="social-icons">
               <span>
                 <a
-                  href="https://www.linkedin.com/in/selma-hamutenya/"
+                  href="https://www.linkedin.com/in/kelvinkaviku/"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -57,7 +57,7 @@ const ProfComponent = () => {
               </span>
               <span>
                 <a
-                  href="https://github.com/SelmaNdapanda"
+                  href="https://github.com/brainskev/"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -66,7 +66,7 @@ const ProfComponent = () => {
               </span>
               <span>
                 <a
-                  href="https://wellfound.com/u/selma-hamutenya"
+                  href="https://wellfound.com/u/kelvin-kaviku"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -75,7 +75,7 @@ const ProfComponent = () => {
               </span>
               <span>
                 <a
-                  href="https://twitter.com/sellohBlaq"
+                  href="https://twitter.com/kevin_ngotho?s=09/"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -84,7 +84,7 @@ const ProfComponent = () => {
               </span>
               <span>
                 <a
-                  href="https://medium.com/@ndapanda1996"
+                  href="https://medium.com/@ngotho.kelvin"
                   target="_blank"
                   rel="noreferrer"
                 >
