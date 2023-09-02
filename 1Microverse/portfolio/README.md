@@ -1,70 +1,112 @@
-# Getting Started with Create React App
+<div align="center">
+  <h3><b>Kelvin's Portfolio</b></h3>
+</div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 📗 Table of Contents
 
-## Available Scripts
+- [📖 About the Project](#[project])
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Setup](#setup)
+  - [Available Scripts](#available-scripts)
+- [👥 Authors](#author)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgments)
+- [📝 License](#license)
 
-In the project directory, you can run:
+# 📖 Kelvin-portfolio <a name="about-project"></a>
 
-### `npm start`
+**Kelvin's Portfolio** This is my portfolio website to showcase my skills and projects.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🛠 Built With <a name="built-with"></a>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Tech Stack <a name="tech-stack"></a>
 
-### `npm test`
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
+</details>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Key Features <a name="key-features"></a>
 
-### `npm run build`
+- **This portfolio website showcase my skills, projects and testimonials/recommendations**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🚀 Live Demo <a name="live-demo"></a>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- [kelvinkaviku-portfolio](/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### `npm run eject`
+## 💻 Getting Started <a name="getting-started"></a>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+> To get a local copy up and running follow these simple steps.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- `node` installed in your computer, if not refer this [link](https://nodejs.dev/en/download/package-manager/) to install it in your system.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Setup
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Clone this repository to your desired folder:
 
-## Learn More
+```
+  git clone https://github.com/brainskev/portfolio
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+  cd portfolio
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```
 
-### Code Splitting
+### Install
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Run these commands to install the required dependencies:
 
-### Analyzing the Bundle Size
+```
+  npm install
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```
 
-### Making a Progressive Web App
+### Usage
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+To run the project, execute the following command:
 
-### Advanced Configuration
+```
+  npm start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 👥 Author <a name="authors"></a>
 
-### Deployment
+👤 **Kelvin Kaviku**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+- GitHub: [@githubhandle](https://github.com/brainskev)
+- Twitter: [@twitterhandle](https://twitter.com/brainskev)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/brainskev/)
 
-### `npm run build` fails to minify
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 🔭 Future Features <a name="future-features"></a>
+
+- **Add Unit test**
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project give it a star!
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+- Microverse ❤️
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
