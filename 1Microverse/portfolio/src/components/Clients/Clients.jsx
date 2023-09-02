@@ -10,21 +10,6 @@ import ClientSlider from './ClientSlider';
 
 const clients = [
   {
-    name: 'Yonas Tesfu',
-    position: 'Full-stack Developer',
-    img_url: 'https://avatars.githubusercontent.com/u/72081991?v=4',
-    stars: 5,
-    disc: `I am writing to recommend Selma Hamutenya with whom I have had the pleasure of working with on 
-        several web development projects, and I can confidently say that she is an exceptional developer.
-        Selma is a highly skilled web developer with expertise in a variety of web development technologies 
-        and frameworks. She is able to create elegant and efficient code that is both functional and aesthetically pleasing. 
-        She has a keen eye for design and is able to implement user-friendly interfaces that are easy to navigate. What sets 
-        Selma apart, however, is her work ethic and her ability to work collaboratively with others. She is always willing 
-        to go the extra mile to ensure that projects are completed on time and to the highest possible standard. 
-        She is an excellent communicator who is able to explain complex technical concepts in a way that is easy for 
-        team members to understand. She is also a supportive team member who is always willing to offer feedback and advice to others.`,
-  },
-  {
     name: 'Amaka Laura Konwea',
     position: 'Full-stack Developer',
     img_url: 'https://avatars.githubusercontent.com/u/105006208?v=4',
@@ -35,7 +20,7 @@ const clients = [
         His ability to turn complex design concepts into reality,
         utilizing the latest techniques and technologies with excellent attention to detail to deliver high-quality results are among his keen qualities.
         I would gladly recommend him for any job.`,
-      },
+  },
   {
     name: 'Mutai Gilbert',
     position: 'Software Engineer',
@@ -58,10 +43,9 @@ const clients = [
     disc: `I highly endorse Kelvin Kaviku as a qualified and competent developer. 
       He has a strong commitment to delivering outstanding work and consistently demonstrates attention to detail and an understanding of industry best practices. 
       Kelvin is a collaborative team player,
-      prioritizing the success of the project and the team, making him an ideal candidate for a team-oriented work environment.,
+      prioritizing the success of the project and the team, making him an ideal candidate for a team-oriented work environment.`,
   },
 ];
-
 const settings = {
   dots: true,
   infinite: true,
@@ -127,8 +111,7 @@ const Clients = () => {
 
 export default Clients;
 
-
-const Container = styled.div`,
+const Container = styled.div`
   width: 80%;
   max-width: 1280px;
   margin: 0 auto;

@@ -1,7 +1,7 @@
 /* eslint-disable arrow-body-style */
 /* eslint-disable react/jsx-wrap-multilines */
 import React from 'react';
-import { SiPytorch } from 'react-icons/si';
+import { SiPytorchlightning } from 'react-icons/si';
 import { CgWebsite, CgDatabase } from 'react-icons/cg';
 import styled from 'styled-components';
 import { Slide } from 'react-awesome-reveal';
@@ -15,7 +15,7 @@ const Skills = () => {
           My
           <span className="green">skills</span>
         </h4>
-        <h1>Tech Stack</h1>
+        <h1>What I Know</h1>
       </Slide>
       <Cards>
         <Slide direction="left">
@@ -30,6 +30,7 @@ const Skills = () => {
                 <li>React</li>
                 <li>Redux</li>
                 <li>jQuery</li>
+                <li>C#</li>
                 <li>Bootstrap</li>
               </ul>
             }
@@ -57,7 +58,7 @@ const Skills = () => {
         </Slide>
         <Slide direction="right">
           <Card
-            Icon={SiPytorch}
+            Icon={SiPytorchlightning}
             title="Other Skills"
             text={
               <ul>

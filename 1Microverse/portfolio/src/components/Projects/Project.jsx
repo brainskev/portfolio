@@ -5,7 +5,7 @@ import styled from 'styled-components';
 
 const Project = (props) => {
   const {
-    img, title, disc, live, source,
+    img, title, disc, source,
   } = props.item;
   return (
     <Container className="project">
@@ -14,9 +14,6 @@ const Project = (props) => {
         <h1>{title}</h1>
         <p>
           {disc}
-          <a href={live} target="_blank" rel="noreferrer">
-            See Live
-          </a>
           <a href={source} target="_blank" rel="noreferrer">
             See Source
           </a>

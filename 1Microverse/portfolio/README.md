@@ -1,5 +1,5 @@
 <div align="center">
-  <h3><b>Selma's Portfolio</b></h3>
+  <h3><b>Kelvin's Portfolio</b></h3>
 </div>
 
 # 📗 Table of Contents
@@ -20,9 +20,9 @@
 - [🙏 Acknowledgements](#acknowledgments)
 - [📝 License](#license)
 
-# 📖 selma-portfolio <a name="about-project"></a>
+# 📖 Kelvin-portfolio <a name="about-project"></a>
 
-**Selma's Portfolio** This is my portfolio website to showcase my skills and projects.
+**Kelvin's Portfolio** This is my portfolio website to showcase my skills and projects.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -41,7 +41,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [kelvin kaviku's portfolio]()
+- [kelvinkaviku-portfolio](/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -56,7 +56,7 @@
 Clone this repository to your desired folder:
 
 ```
-  git clone https://github.com/brainskev/portfolio.git
+  git clone https://github.com/brainskev/portfolio
 
   cd portfolio
 
@@ -81,11 +81,11 @@ To run the project, execute the following command:
 
 ## 👥 Author <a name="authors"></a>
 
-👤 **Kelvin kaviku**
+👤 **Kelvin Kaviku**
 
-- GitHub: [@brainskev](https://github.com/brainskev/)
-- Twitter: [@kelvin_ngotho](https://twitter.com/kevin_ngotho?s=09/)
-- LinkedIn: [kelvin](https://www.linkedin.com/in/kelvinkaviku/)
+- GitHub: [@githubhandle](https://github.com/brainskev)
+- Twitter: [@twitterhandle](https://twitter.com/brainskev)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/brainskev/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -97,7 +97,7 @@ To run the project, execute the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/brainskev/portfolio/issues/).
+Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 

@@ -16,7 +16,7 @@ const Projects = () => {
           <span className="green">Projects</span>
         </h1>
         <p>
-          Here, I present some of my projects built using different tech-stacks:
+          Take a look at some of my projects built using different tech-stacks:
           HTML5/CSS3, JavaScript, React/Redux, Ruby, postgreSQL and, Ruby on
           Rails.
         </p>

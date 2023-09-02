@@ -7,7 +7,7 @@ import {
 } from 'react-icons/fa';
 import { BsMedium } from 'react-icons/bs';
 import { Slide } from 'react-awesome-reveal';
-import profile from '../../assets/selma.png';
+import profile from '../../assets/kelvin_dp.png';
 
 const ProfComponent = () => {
   return (
@@ -21,9 +21,9 @@ const ProfComponent = () => {
           <h1 className="green">Kelvin Kaviku</h1>
           <h3>Full-stack Developer</h3>
           <p>
-            A Full-stack Developer based in Nairobi Kenya with 3+ years of hands-on
-            experience designing, developing, and implementing applications and
-            solutions using a range of technologies and programming languages. I
+          I am an experienced Full-stack Developer based in Nairobi Kenya,
+          with over three years of practical expertise in crafting and deploying applications
+           and solutions across a diverse set of technologies and programming languages. I
             have a deep appreciation for clean code, test-driven development,
             and mentorship. I can help you build a product, feature, or a
             website. Look through some of my work and experience! If you have a
@@ -48,7 +48,7 @@ const ProfComponent = () => {
             <div className="social-icons">
               <span>
                 <a
-                  href="https://www.linkedin.com/in/kelvinkaviku/"
+                  href="https://www.linkedin.com/in/selma-hamutenya/"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -57,7 +57,7 @@ const ProfComponent = () => {
               </span>
               <span>
                 <a
-                  href="https://github.com/brainskev"
+                  href="https://github.com/SelmaNdapanda"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -66,7 +66,7 @@ const ProfComponent = () => {
               </span>
               <span>
                 <a
-                  href="https://wellfound.com/u/kelvin-kaviku"
+                  href="https://wellfound.com/u/selma-hamutenya"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -75,7 +75,7 @@ const ProfComponent = () => {
               </span>
               <span>
                 <a
-                  href="https://twitter.com/kevin_ngotho?t=CUmX1F7u-e2zNWuFc6rymA&s=09"
+                  href="https://twitter.com/sellohBlaq"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -84,7 +84,7 @@ const ProfComponent = () => {
               </span>
               <span>
                 <a
-                  href="https://medium.com/@ngotho.kelvin"
+                  href="https://medium.com/@ndapanda1996"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -222,7 +222,7 @@ const Social = styled.div`
 `;
 const Profile = styled.div`
   img {
-    width: 20rem;
+    width: rem;
     height: 25rem;
     filter: drop-shadow(0px 10px 10px #db709270);
     transition: transform 400ms ease-in-out;
