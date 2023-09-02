@@ -13,7 +13,7 @@ const Skills = () => {
       <Slide direction="down">
         <h4>
           My
-          <span className="green">skills</span>
+          <span className="green">&nbsp;skills</span>
         </h4>
         <h1>What I Know</h1>
       </Slide>
