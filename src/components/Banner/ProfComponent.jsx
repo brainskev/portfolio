@@ -22,7 +22,7 @@ const ProfComponent = () => {
           <h3>Full-stack Developer</h3>
           <p>
           I am an experienced Full-stack Developer based in Nairobi Kenya,
-          with over three years of practical expertise in crafting and deploying applications
+          with over 2 years of practical expertise in crafting and deploying applications
            and solutions across a diverse set of technologies and programming languages. I
             have a deep appreciation for clean code, test-driven development,
             and mentorship. I can help you build a product, feature, or a
