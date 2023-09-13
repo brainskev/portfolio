@@ -22,7 +22,7 @@ const ProfComponent = () => {
           <h3>Full-stack Developer</h3>
           <p>
           I am an experienced Full-stack Developer based in Nairobi Kenya,
-          with over three years of practical expertise in crafting and deploying applications
+          with over 2 years of practical expertise in crafting and deploying applications
            and solutions across a diverse set of technologies and programming languages. I
             have a deep appreciation for clean code, test-driven development,
             and mentorship. I can help you build a product, feature, or a
@@ -48,7 +48,7 @@ const ProfComponent = () => {
             <div className="social-icons">
               <span>
                 <a
-                  href="https://www.linkedin.com/in/selma-hamutenya/"
+                  href="https://www.linkedin.com/in/kelvinkaviku/"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -57,7 +57,7 @@ const ProfComponent = () => {
               </span>
               <span>
                 <a
-                  href="https://github.com/SelmaNdapanda"
+                  href="https://github.com/brainskev/"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -66,7 +66,7 @@ const ProfComponent = () => {
               </span>
               <span>
                 <a
-                  href="https://wellfound.com/u/selma-hamutenya"
+                  href="https://wellfound.com/u/kelvin-kaviku"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -75,7 +75,7 @@ const ProfComponent = () => {
               </span>
               <span>
                 <a
-                  href="https://twitter.com/sellohBlaq"
+                  href="https://twitter.com/kevin_ngotho?s=09/"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -84,7 +84,7 @@ const ProfComponent = () => {
               </span>
               <span>
                 <a
-                  href="https://medium.com/@ndapanda1996"
+                  href="https://medium.com/@ngotho.kelvin"
                   target="_blank"
                   rel="noreferrer"
                 >
